@@ -233,3 +233,6 @@ This repository serves as the official landing page for Sam & Max: Chariots of t
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sam & Max: Chariots of the Dogs today!**
+
+---
+**Last updated:** 2026-09-11 22:05:17 UTC
