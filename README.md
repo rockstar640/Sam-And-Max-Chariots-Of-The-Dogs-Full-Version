@@ -235,4 +235,4 @@ This repository serves as the official landing page for Sam & Max: Chariots of t
 **Get the most recent version of Sam & Max: Chariots of the Dogs today!**
 
 ---
-**Last updated:** 2026-10-25 14:39:30 UTC
+**Last updated:** 2026-10-25 17:57:13 UTC
